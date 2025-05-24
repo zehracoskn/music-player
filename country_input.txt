@@ -1,0 +1,50 @@
+1, Turkey, TR
+2, France, FR
+3, Spain, ES
+4, Germany, DE
+5, Italy, IT
+6, United States, US
+7, Canada, CA
+8, Brazil, BR
+9, Argentina, AR
+10, Mexico, MX
+11, United Kingdom, GB
+12, Sweden, SE
+13, Norway, NO
+14, Denmark, DK
+15, Netherlands, NL
+16, Belgium, BE
+17, Switzerland, CH
+18, Austria, AT
+19, Poland, PL
+20, Portugal, PT
+21, Greece, GR
+22, Hungary, HU
+23, Czech Republic, CZ
+24, Romania, RO
+25, Bulgaria, BG
+26, Serbia, RS
+27, Russia, RU
+28, Ukraine, UA
+29, India, IN
+30, China, CN
+31, Japan, JP
+32, South Korea, KR
+33, Indonesia, ID
+34, Philippines, PH
+35, Thailand, TH
+36, Vietnam, VN
+37, Malaysia, MY
+38, Australia, AU
+39, New Zealand, NZ
+40, Egypt, EG
+41, South Africa, ZA
+42, Morocco, MA
+43, Nigeria, NG
+44, Kenya, KE
+45, Saudi Arabia, SA
+46, United Arab Emirates, AE
+47, Iran, IR
+48, Pakistan, PK
+49, Iraq, IQ
+50, Israel, IL
